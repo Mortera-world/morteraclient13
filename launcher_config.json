@@ -23,7 +23,7 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 			"name": "bin"
 		}
 	],
-	"clientFolder": "tibia",
+	"clientFolder": "mortera13",
 	"newClientUrl" : "https://github.com/Mortera-world/morteraclient13/releases/download/v1.0.0/mortera13.zip",
 	"clientExecutable": "client.exe"
 }
