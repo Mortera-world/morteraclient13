@@ -32690,11 +32690,11 @@
     },
     {
       "localfile": "assets/catalog-content.json",
-      "packedhash": "1eb18bc0e7aa02cb7e8eec890085dcb1470f10e17e768b4324bfb11c4cb2a23d",
-      "packedsize": 202104,
+      "packedhash": "286a867881171dbe4ddc87013fcad7e24da817d9e64dfebe602c07dfcef7e1eb",
+      "packedsize": 202051,
       "url": "assets/catalog-content.json.lzma",
-      "unpackedhash": "84e4ab8ff32314b437969932403a7d03aafbe8178381fcb863582726eebf64e5",
-      "unpackedsize": 947067
+      "unpackedhash": "c98e43aa4b611487da3b25ee7e4bcc3f46e764b86e954971a92d3b79dfe55847",
+      "unpackedsize": 946928
     },
     {
       "localfile": "assets/map-1a773530ef67bb53ca5d03de21e28546fdd3a7191f4ff4255a3f3fcdc21721f5.dat",
