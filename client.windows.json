@@ -5370,14 +5370,6 @@
       "unpackedsize": 256941
     },
     {
-      "localfile": "conf/gpublacklist.json",
-      "packedhash": "9624ca7717ae6f615ffe644063dfff11e25768db596a6abf142517e6ae6ad773",
-      "packedsize": 1231,
-      "url": "conf/gpublacklist.json.lzma",
-      "unpackedhash": "68c9dc3e8add86fe087418ab5910b10f25bce718f3961218968e5cb413089a09",
-      "unpackedsize": 6299
-    },
-    {
       "localfile": "3rdpartylicences/qt.txt",
       "packedhash": "de88e54a4d8b58d085224810c6745f8b5a3d7225e0442fff15248f3f298190ac",
       "packedsize": 13076,
