@@ -241,6 +241,14 @@
       "unpackedsize": 23195
     },
     {
+      "localfile": "assets/sprites-e14ce73a4ba892dbbe2832b12b4bdee8677d1c2f1814c2f20cc7621c84f69acf.bmp.lzma",
+      "packedhash": "4e33b609ad8608631191122c6c152d1038aec89efc8c5f9dc4911ca6a1fe5db4",
+      "packedsize": 28431,
+      "url": "assets/sprites-e14ce73a4ba892dbbe2832b12b4bdee8677d1c2f1814c2f20cc7621c84f69acf.bmp.lzma",
+      "unpackedhash": "4e33b609ad8608631191122c6c152d1038aec89efc8c5f9dc4911ca6a1fe5db4",
+      "unpackedsize": 28431
+    },
+    {
       "localfile": "assets/sprites-90f9bbf08bb6d15e50ae0a921caf41759dc602c70c2205f265e972340cb4288f.bmp.lzma",
       "packedhash": "5b54515bd04f7ab15e12842f9ccf9cae7cc088c9f0684996fbb5464065de08ae",
       "packedsize": 19175,
@@ -32695,6 +32703,14 @@
       "url": "assets/catalog-content.json.lzma",
       "unpackedhash": "c98e43aa4b611487da3b25ee7e4bcc3f46e764b86e954971a92d3b79dfe55847",
       "unpackedsize": 946928
+    },
+    {
+      "localfile": "assets/map-26c57db51b9bcccb5a6a781874d4796e127e275560973432044bd1fcaf01a161.dat",
+      "packedhash": "d633657a0fbd690da6f3073f03a2f9ef488bb34bbde92a44c6643fe6613ce581",
+      "packedsize": 71401,
+      "url": "assets/map-26c57db51b9bcccb5a6a781874d4796e127e275560973432044bd1fcaf01a161.dat.lzma",
+      "unpackedhash": "26c57db51b9bcccb5a6a781874d4796e127e275560973432044bd1fcaf01a161",
+      "unpackedsize": 178651
     },
     {
       "localfile": "assets/subarea-0201-c805d321bbf6013395849027fb95d22736b0bb3aff8b6809b82ae1eee983ece7.bmp.lzma",
